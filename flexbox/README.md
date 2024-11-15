@@ -65,4 +65,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Ruth Temiloluwa Sobande <volunteerme2021@gmail.com>
